@@ -2,31 +2,75 @@
 max-width: 1600px;
 margin: 0% auto;
 }
-    
-    
-  
-::content {
-    
-margin: 0 auto;
-    
-}
-    
-    
-    
+     
 .whole-body {
-    
-    
 max-width: 1600px;
 }
     
     
 .whole-body {
-    
 margin: 0% auto;
-    
 }
     
 .nav_links {
 text-align: center;
+}
 
+#hero-msg h1 {
+text-align: center;
+}
+
+#hero-msg h4 {
+text-align: center;
+}
+
+.button-box {
+text-align: center;  
+}
+
+main section {
+text-align: center;
+}
+
+#background {
+height: 725px;
+}
+
+body {
+background-color: aliceblue;
+}
+
+header {
+background-color: aliceblue;    
+}
+
+nav a:hover {
+background-color: antiquewhite;
+}
+
+.book {
+background-color: antiquewhite;
+}
+
+.join:hover {
+background-color: aliceblue;   
+}
+
+.book:hover{
+background-color: aliceblue;
+}
+
+.join:hover{
+background-color: antiquewhite;
+}
+#background{
+background-color: aliceblue;
+}
+
+.msg{
+background-color: aliceblue;
+}
+
+footer {
+ background-color: aliceblue;   
 }
