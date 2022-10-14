@@ -13,7 +13,7 @@
 
 nav a {
   text-align: center;
-  color: rgba(21, 21, 198, 0.42);
+  color: rgb(18, 18, 206);
   text-decoration: none;
 }
 
@@ -38,74 +38,74 @@ main section {
 }
 
 body {
-  background-color: #a40000;
+  background-color: #ad1818db;
 }
 
 header {
-  background-color: #a40000;
+  background-color: #ad1818db;
 }
 
 nav a:hover {
-  background-color: #a40000;
-  color: rgba(21, 21, 198, 0.42);
+  background-color: #ad1818db;
+  color: rgb(18, 18, 206);
 }
 
 .book {
-  background-color: #a40000;
-  color: rgba(21, 21, 198, 0.42);
+  background-color: #ad1818db;
+  color: rgb(18, 18, 206);
   text-decoration: none;
 }
 
 .join:hover {
-  background-color: #a40000;
-  color: rgba(21, 21, 198, 0.42);
+  background-color: #ad1818db;
+  color: rgb(18, 18, 206);
 }
 
 .book:hover {
-  background-color: #a40000;
-  color: rgba(21, 21, 198, 0.42);
+  background-color: #ad1818db;
+  color: rgb(18, 18, 206);
 }
 
 #background {
-  background-color: #a40000;
+  background-color: #ad1818db;
 }
 
 .msg {
-  background-color: #a40000;
+  background-color: #ad1818db;
 }
 
 footer {
-  background-color: #a40000;
-  
+  background-color: #ad1818db;
+  color: rgba(10, 10, 223, 0.42);
 }
 
 .home-title {
-  color: rgba(21, 21, 198, 0.42);
+  color: rgb(18, 18, 206);
 }
 
 h4 {
-  color: rgba(21, 21, 198, 0.42);
+  color: rgb(18, 18, 206);
 }
 
 .join {
-  color: rgba(21, 21, 198, 0.42);
+  color: rgb(18, 18, 206);
   text-decoration: none;
 }
 
 .msg h2 {
-  color: rgba(21, 21, 198, 0.42);
+  color: rgb(18, 18, 206);
 }
 
 .msg p {
-  color: rgba(21, 21, 198, 0.42);
+  color: rgb(18, 18, 206);
 }
 
 footer a:hover {
-  color: rgba(21, 21, 198, 0.42);
+  color: rgb(18, 18, 206);
 }
 
 footer a {
-  color: rgba(21, 21, 198, 0.42);
+  color: rgb(18, 18, 206);
   text-decoration: none;
 }
 
