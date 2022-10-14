@@ -13,7 +13,7 @@
 
 nav a {
   text-align: center;
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
   text-decoration: none;
 }
 
@@ -47,23 +47,23 @@ header {
 
 nav a:hover {
   background-color: #a40000;
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
 }
 
 .book {
   background-color: #a40000;
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
   text-decoration: none;
 }
 
 .join:hover {
   background-color: #a40000;
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
 }
 
 .book:hover {
   background-color: #a40000;
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
 }
 
 #background {
@@ -76,36 +76,36 @@ nav a:hover {
 
 footer {
   background-color: #a40000;
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
 }
 
 .home-title {
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
 }
 
 h4 {
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
 }
 
 .join {
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
   text-decoration: none;
 }
 
 .msg h2 {
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
 }
 
 .msg p {
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
 }
 
 footer a:hover {
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
 }
 
 footer a {
-  color: blue;
+  color: rgba(21, 21, 198, 0.42);
   text-decoration: none;
 }
 
