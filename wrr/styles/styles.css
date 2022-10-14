@@ -1,28 +1,29 @@
-::content {  
+.whole-body {  
     max-width: 1600px;
+    margin: 0 auto;
     }
     
     
   
-    ::content {
+::content {
     
-    margin: 0 auto;
+margin: 0 auto;
     
-    }
-    
-    
-    
-    .whole-body {
+}
     
     
-    max-width: 1600px;
-    }
+    
+.whole-body {
     
     
-    .whole-body {
+max-width: 1600px;
+}
     
-    margin: 0% auto;
     
-    }
+.whole-body {
+    
+margin: 0% auto;
+    
+}
     
     
