@@ -1,20 +1,17 @@
-.whole-body {
-  max-width: 1600px;
-  margin: 0% auto;
-}
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Rubik+Dirt&display=swap");
 
 .whole-body {
   max-width: 1600px;
-}
-
-.whole-body {
   margin: 0% auto;
+  font-size: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 nav a {
   text-align: center;
   color: rgb(18, 18, 206);
   text-decoration: none;
+  padding: 35px;
 }
 
 #hero-msg h1 {
@@ -39,10 +36,14 @@ main section {
 
 body {
   background-color: #ad1818db;
+  margin: 0;
+  padding: 0;
 }
 
 header {
   background-color: #ad1818db;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 nav a:hover {
@@ -54,11 +55,16 @@ nav a:hover {
   background-color: #ad1818db;
   color: rgb(18, 18, 206);
   text-decoration: none;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin-top: 50px;
+  border-radius: 5px;
 }
 
 .join:hover {
   background-color: #ad1818db;
   color: rgb(18, 18, 206);
+  font-size: 18px;
 }
 
 .book:hover {
@@ -72,15 +78,22 @@ nav a:hover {
 
 .msg {
   background-color: #ad1818db;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  padding: 30px;
 }
 
 footer {
   background-color: #ad1818db;
   color: rgba(10, 10, 223, 0.42);
+  padding: 25px 50px;
+  margin-top: 200px;
 }
 
 .home-title {
   color: rgb(18, 18, 206);
+  font-size: 2em;
+  margin-top: 10px;
 }
 
 h4 {
@@ -90,14 +103,19 @@ h4 {
 .join {
   color: rgb(18, 18, 206);
   text-decoration: none;
+  padding: 15px 30px;
+  margin-top: 50px;
+  border-radius: 5px;
 }
 
 .msg h2 {
   color: rgb(18, 18, 206);
+  margin: 0;
 }
 
 .msg p {
   color: rgb(18, 18, 206);
+  padding-bottom: 15px;
 }
 
 footer a:hover {
@@ -107,6 +125,7 @@ footer a:hover {
 footer a {
   color: rgb(18, 18, 206);
   text-decoration: none;
+  padding: 25px 50px;
 }
 
 .logo {
@@ -115,6 +134,7 @@ footer a {
 
 .icon {
   width: 80px;
+  padding-top: 10px;
 }
 
 #hero-img {
@@ -123,4 +143,31 @@ footer a {
 
 footer p a:hover {
   text-decoration: underline;
+}
+#logo_link {
+  padding-top: 5px;
+}
+
+.social img {
+  padding: 15px;
+}
+
+.rivers-card {
+  margin: 200px 0;
+}
+
+.camping-card {
+  margin: 200px 0;
+}
+
+.rapids-card {
+  margin: 200px 0;
+}
+
+.card-img {
+  border: 10px solid #d9c2a3;
+}
+
+main section img {
+  box-sizing: border-box;
 }
