@@ -44,6 +44,8 @@ header {
   background-color: #ad1818db;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  display: grid;
+  grid-template-columns: 150px auto;
 }
 
 nav a:hover {
@@ -170,4 +172,9 @@ footer p a:hover {
 
 main section img {
   box-sizing: border-box;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
 }
