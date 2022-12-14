@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Goldman&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Goldman&family=Roboto+Mono&display=swap");
+
+.Top-portion {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+}
+
+.Top-portion img {
+  grid-column: 2/3;
+  width: 90%;
+  margin: 25px;
+}
+
+#Title {
+  text-align: center;
+}
+
+.right-portion-p {
+  margin: 25px;
+}
+
+.left-portion-p {
+  margin: 25px;
+}
+
+header {
+  /* display: grid;
+  grid-template-columns: 200px auto auto auto; */
+  align-items: center;
+  padding: 1em;
+  font-family: Roboto Mono;
+}
+.logo {
+  grid-column: 1/2;
+  padding-right: 1em;
+}
+.link1 {
+  display: grid;
+  grid-column: 2/3;
+}
+.link2 {
+  grid-column: 3/4;
+}
+.link3 {
+  grid-column: 4/4;
+}
+main img {
+  width: 100%;
+}
+nav {
+  display: grid;
+  grid-column: 2/5;
+  grid-template-columns: 200px auto auto auto;
+  place-items: center;
+  padding-left: 175px;
+  font-family: Roboto Mono;
+}
+
+.All_reviews {
+  display: grid;
+  grid-column: 2/5;
+  grid-template-columns: 100px auto auto auto;
+  place-items: center;
+}
+.review1 {
+  font-size: 5px;
+}
+.review2 {
+  font-size: 5px;
+}
+.review3 {
+  font-size: 5px;
+}
+#p1grid {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  grid-gap: 15px;
+}
+
+#text1 {
+  grid-column: 1/2;
+  grid-row: 1/2;
+}
+#text2 {
+  grid-column: 3/4;
+  grid-row: 1/2;
+}
+#img1 {
+  grid-column: 2/3;
+  grid-row: 1/2;
+}
+#text3 {
+  grid-column: 1/4;
+  grid-row: 2/3;
+}
+
+#Review1 {
+  grid-column: 1/2;
+  grid-row: 3/4;
+}
+#divimg {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+section {
+  display: inline;
+}
+section #img2 {
+  grid-column: 1/2;
+  grid-row: 4/5;
+}
+#Review2 {
+  grid-column: 2/3;
+  grid-row: 3/4;
+}
+section #img3 {
+  grid-column: 2/3;
+  grid-row: 4/5;
+}
+
+#Review3 {
+  grid-column: 3/4;
+  grid-row: 3/4;
+}
+section #img4 {
+  grid-column: 3/4;
+  grid-row: 4/5;
+}
+
+#p1grid2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+h3 {
+  text-align: center;
+  font-family: Roboto Mono;
+}
+#lastgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+#main_package_text {
+  line-height: 100px;
+  padding: 5px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: #e7c24f;
+  font-family: Roboto Mono;
+}
+
+
+#font_type1{
+font-family: Roboto Mono;
+}
+p{
+  font-family: Goldman;
+
+}
